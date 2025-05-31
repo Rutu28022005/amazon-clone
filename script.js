@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const backToTopButton = document.getElementById('backToTopBtn');
 
-    // Show the button when scrolled down 100px from the top
+    //Show the button when scrolled down 100px from the top
     window.onscroll = function() {
         if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
             backToTopButton.style.display = 'block';
