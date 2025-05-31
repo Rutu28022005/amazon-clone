@@ -19,7 +19,10 @@ A simple Amazon e-commerce website clone built using only HTML, CSS, and JavaScr
 
 - HTML5
 - CSS3 (Flexbox & Grid)
-- JavaScript 
+- JavaScript
+
+## Live Link
+- https://amazon-clone-demo-three.vercel.app/
 
 ---
 
